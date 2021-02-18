@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name c128-sram256KB-rescue)(type Legacy)(uri ${KIPRJMOD}/c128-sram256KB-rescue.lib)(options "")(descr ""))
+)
